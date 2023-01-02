@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iqbalshuvod" target="blank"><img src="https://img.shields.io/twitter/follow/iqbalshuvod?logo=twitter&style=for-the-badge" alt="iqbalshuvod" /></a> </p>
 
-- 🔭 I’m currently working on the [About Agent Banking Project](ongoing)
+- 🔭 I’m currently working on the **About Agent Banking Project**
 
 - 🌱 I’m currently learning **Python, Nextjs**
 
