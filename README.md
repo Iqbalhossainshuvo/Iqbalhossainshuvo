@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, Nextjs**
 
-- 💬 Ask me about **MERN , Android**
+- 💬 Ask me about **MERN Stack Development, Back-end Development, Front-end Development**
 
 - 📫 How to reach me **mdiqbalhossain203050@gmail.com**
 
