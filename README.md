@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, Nextjs**
 
-- 💬 Ask me about **React, MERN , Android**
+- 💬 Ask me about ** MERN , Android**
 
 - 📫 How to reach me **mdiqbalhossain203050@gmail.com**
 
