@@ -1,6 +1,6 @@
 ![MasterHead](https://###)
 <h1 align="center">Hi 👋, I'm Md. Iqbal Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer & UI UX Designer from Bangladesh</h3>
 <div align="center"><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalhossainshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalhossainshuvo" /> </p>
 
