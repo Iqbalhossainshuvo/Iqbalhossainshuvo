@@ -1,84 +1,47 @@
-<!-- =========================================================
-     PROFESSIONAL GITHUB PROFILE — Md. Iqbal Hossain
-     Dark Blue • Recruiter-Ready • Clean Architecture
-========================================================== -->
+# Md. Iqbal Hossain
 
-<div align="center">
+**Full Stack Developer | UI/UX Designer | System Thinker | Digital Marketer | Business Consultant | AI, Growth Strategy & Technology Writer**
 
-<h1 style="color:#58A6FF;">Md. Iqbal Hossain</h1>
-
-<p style="color:#8B949E;font-size:16px;">
-Full Stack Developer | UI/UX Designer | Problem Solver
-</p>
-
-<p style="color:#6E7681;max-width:720px;">
-I design and build scalable, maintainable web applications with a strong focus on clean architecture,
-performance, and user-centric interfaces.
-</p>
-
-</div>
+I design and build scalable, maintainable web applications with a strong focus on clean architecture, performance, and user-centered design. I enjoy turning complex business requirements into reliable technical solutions.
 
 ---
 
-## Professional Summary
+## 👤 Professional Summary
 
-Results-oriented **Full Stack Developer** with hands-on experience across frontend, backend, and UI systems.  
-Comfortable translating business requirements into reliable technical solutions.  
-Strong interest in **FinTech, SaaS platforms, and production-grade systems**.
+Results-driven **Full Stack Developer** with hands-on experience across frontend, backend, and UI systems.  
+Strong understanding of modern web technologies, clean code principles, and scalable application design.  
+Actively improving skills in system design and backend performance.
 
-**Core strengths**
-- End-to-end web application development
-- Clean, maintainable, and scalable code
-- Strong UI consistency and UX fundamentals
-- Continuous learner with a problem-solving mindset
+**Interests:** FinTech, SaaS platforms, enterprise-grade applications.
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- 🔭 Working on **Agent Banking–related systems**
-- 🌱 Learning **Python** and **Next.js**
-- 🧠 Improving system design and backend efficiency
-
----
-
-## Technical Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,python,java,typescript,tailwind,bootstrap,firebase,figma&theme=dark" />
-
-</div>
+- 🔭 Working on **Banking–related systems**
+- 🌱 Learning **New Topic** and **Continuously with update system**
+- 🧠 Improving backend architecture and scalability and security
+- 💬 Comfortable with **Digital Product & API development**
 
 ---
 
-## Development Snapshot
+## 🧠 Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalhossainshuvo&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB" />
-
-</div>
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,python,java,typescript,tailwind,bootstrap,firebase,figma&theme=dark)
 
 ---
 
-## GitHub Performance
+## 📈 GitHub Performance
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalhossainshuvo&show_icons=true&theme=github_dark&hide_border=true)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iqbalhossainshuvo&show_icons=true&theme=github_dark&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqbalhossainshuvo&theme=github-dark-blue&hide_border=true)
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalhossainshuvo&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossainshuvo&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossainshuvo&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## Key Metrics
+## 📊 Key Metrics
 
 | Metric | Value |
 |------|------|
@@ -91,31 +54,16 @@ Strong interest in **FinTech, SaaS platforms, and production-grade systems**.
 
 ---
 
-## Professional Links
+## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/iqbalshuvod">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/iqbalshuvod">
-  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://fb.com/iqbalshuvod">
-  <img src="https://img.shields.io/badge/Facebook-1F6FEB?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@IqbalShuvo">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/im-iqbal-hossain)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iqbalshuvod)
+[![Facebook](https://img.shields.io/badge/Facebook-1F6FEB?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ihsshuvo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nanodevlab)
 
 ---
 
-## Contact
+## 📬 Contact
 
 - 📧 Email: **mdiqbalhossain203050@gmail.com**
 - 📄 Resume:  
@@ -123,7 +71,4 @@ Strong interest in **FinTech, SaaS platforms, and production-grade systems**.
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=iqbalhossainshuvo&style=flat-square&color=1F6FEB" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=iqbalhossainshuvo&style=flat-square&color=1F6FEB)
