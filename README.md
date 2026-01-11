@@ -8,9 +8,9 @@ I design and build scalable, maintainable web applications with a strong focus o
 
 ## 👤 Professional Summary
 
-Results-driven **Full Stack Developer** with hands-on experience across frontend, backend, and UI systems.  
-Strong understanding of modern web technologies, clean code principles, and scalable application design.  
-Actively improving skills in system design and backend performance.
+I build scalable web applications, design seamless user experiences, and craft growth-driven digital strategies. 
+  Skilled in <strong>JavaScript, TypeScript, Python, Java, React, Node.js, Next.js, Tailwind CSS, MongoDB, SQL</strong> and <strong>CMS platforms</strong>. 
+  Passionate about turning innovative ideas into high-impact solutions.
 
 **Interests:** FinTech, SaaS platforms, enterprise-grade applications.
 
