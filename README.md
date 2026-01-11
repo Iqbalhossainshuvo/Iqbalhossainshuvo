@@ -33,7 +33,7 @@ I build scalable web applications, design seamless user experiences, and craft g
 
 ## 📈 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalhossainshuvo&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalhossainshuvo&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqbalhossainshuvo&theme=github-dark-blue&hide_border=true)
 
