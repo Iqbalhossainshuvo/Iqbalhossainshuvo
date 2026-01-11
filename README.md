@@ -1,90 +1,60 @@
-<!-- ===================== PROFILE HEADER ===================== -->
-<div align="center" style="background:#0D1117;padding:40px;border-radius:16px;">
+<!-- =========================================================
+     PROFESSIONAL GITHUB PROFILE — Md. Iqbal Hossain
+     Dark Blue • Recruiter-Ready • Clean Architecture
+========================================================== -->
+
+<div align="center">
 
 <h1 style="color:#58A6FF;">Md. Iqbal Hossain</h1>
 
-<h3 style="color:#8B949E;">
-Full Stack Developer • UI/UX Designer • Problem Solver
-</h3>
+<p style="color:#8B949E;font-size:16px;">
+Full Stack Developer | UI/UX Designer | Problem Solver
+</p>
 
-<p style="color:#6E7681;max-width:700px;">
-I build scalable, maintainable, and user-focused web applications using modern technologies and clean architectural principles.
+<p style="color:#6E7681;max-width:720px;">
+I design and build scalable, maintainable web applications with a strong focus on clean architecture,
+performance, and user-centric interfaces.
 </p>
 
 </div>
 
 ---
 
-<!-- ===================== CODE IDENTITY ===================== -->
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
+## Professional Summary
 
-```js
-const iqbal = {
-  role: "Full Stack Developer",
-  location: "Bangladesh",
-  expertise: ["Web Applications", "UI Systems", "Backend APIs"],
-  currentFocus: ["Python", "Next.js"],
-  values: ["Clean Code", "Scalability", "Performance"]
-};
+Results-oriented **Full Stack Developer** with hands-on experience across frontend, backend, and UI systems.  
+Comfortable translating business requirements into reliable technical solutions.  
+Strong interest in **FinTech, SaaS platforms, and production-grade systems**.
 
-</div>
-
-
-
-
-Perfect — below is a **single, complete, copy-paste-ready `README.md`** with:
-
-* ❌ **Header image removed**
-* ✅ **Full dark-blue / navy professional vibe**
-* ✅ **Card-style sections using `<div>`**
-* ✅ **Clean HR-friendly structure**
-* ✅ **Inspired by your reference image color system**
-* ✅ **Everything in ONE block**
-
-Just **copy & paste** this into `README.md`.
+**Core strengths**
+- End-to-end web application development
+- Clean, maintainable, and scalable code
+- Strong UI consistency and UX fundamentals
+- Continuous learner with a problem-solving mindset
 
 ---
 
-````md
-<!-- ===================== PROFILE HEADER ===================== -->
-<div align="center" style="background:#0D1117;padding:40px;border-radius:16px;">
+## Current Focus
 
-<h1 style="color:#58A6FF;">Md. Iqbal Hossain</h1>
+- 🔭 Working on **Agent Banking–related systems**
+- 🌱 Learning **Python** and **Next.js**
+- 🧠 Improving system design and backend efficiency
 
-<h3 style="color:#8B949E;">
-Full Stack Developer • UI/UX Designer • Problem Solver
-</h3>
+---
 
-<p style="color:#6E7681;max-width:700px;">
-I build scalable, maintainable, and user-focused web applications using modern technologies and clean architectural principles.
-</p>
+## Technical Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,python,java,typescript,tailwind,bootstrap,firebase,figma&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ===================== CODE IDENTITY ===================== -->
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
+## Development Snapshot
 
-```js
-const iqbal = {
-  role: "Full Stack Developer",
-  location: "Bangladesh",
-  expertise: ["Web Applications", "UI Systems", "Backend APIs"],
-  currentFocus: ["Python", "Next.js"],
-  values: ["Clean Code", "Scalability", "Performance"]
-};
-````
-
-</div>
-
----
-
-<!-- ===================== YEAR IN CODE ===================== -->
-
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
-
-<h2 style="color:#58A6FF;">📊 Year in Code</h2>
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalhossainshuvo&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB" />
 
@@ -92,70 +62,9 @@ const iqbal = {
 
 ---
 
-<!-- ===================== STATS DASHBOARD ===================== -->
+## GitHub Performance
 
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
-
-<h2 style="color:#58A6FF;">📌 Developer Overview</h2>
-
-| Metric               | Value         |
-| -------------------- | ------------- |
-| 🏆 Universal Rank    | **Top 50%**   |
-| ⚡ Longest Streak     | **3 Days**    |
-| 💻 Total Commits     | **61**        |
-| 📅 Most Active Month | **September** |
-| 📆 Most Active Day   | **Monday**    |
-| 🚀 Primary Language  | **Python**    |
-| 🎯 Power Level       | **Rookie**    |
-
-</div>
-
----
-
-<!-- ===================== ABOUT ME ===================== -->
-
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
-
-<h2 style="color:#58A6FF;">👤 About Me</h2>
-
-<p style="color:#C9D1D9;">
-I am a results-oriented Full Stack Developer with a strong interest in building reliable systems and intuitive user experiences.
-I enjoy working across the stack — from crafting clean UI components to designing efficient backend logic.
-</p>
-
-<p style="color:#C9D1D9;">
-My approach emphasizes clarity, maintainability, and long-term scalability. I continuously improve my skills by learning modern
-frameworks and applying best practices in real-world projects.
-</p>
-
-<ul style="color:#C9D1D9;">
-  <li>🔭 Currently working on <b>Agent Banking–related systems</b></li>
-  <li>🌱 Learning <b>Python & Next.js</b></li>
-  <li>💬 Comfortable with <b>MERN Stack & Backend Development</b></li>
-  <li>⚡ Strong interest in <b>FinTech & SaaS platforms</b></li>
-</ul>
-
-</div>
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
-
-<h2 style="color:#58A6FF;">🧠 Tech Stack</h2>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,python,java,typescript,tailwind,bootstrap,firebase,figma,photoshop&theme=dark" />
-
-</div>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
-
-<h2 style="color:#58A6FF;">📈 GitHub Stats</h2>
+<div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iqbalhossainshuvo&show_icons=true&theme=github_dark&hide_border=true" />
 
@@ -169,11 +78,22 @@ frameworks and applying best practices in real-world projects.
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+## Key Metrics
 
-<div style="background:#0D1117;padding:25px;border-radius:16px;">
+| Metric | Value |
+|------|------|
+| Universal Rank | Top 50% |
+| Total Commits | 61 |
+| Longest Streak | 3 Days |
+| Primary Language | Python |
+| Most Active Day | Monday |
+| Most Active Month | September |
 
-<h2 style="color:#58A6FF;">🌐 Connect With Me</h2>
+---
+
+## Professional Links
+
+<div align="center">
 
 <a href="https://linkedin.com/in/iqbalshuvod">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -195,17 +115,20 @@ frameworks and applying best practices in real-world projects.
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+## Contact
 
-<div align="center" style="background:#0D1117;padding:20px;border-radius:16px;">
+- 📧 Email: **mdiqbalhossain203050@gmail.com**
+- 📄 Resume:  
+  https://drive.google.com/file/d/1E9W4oXv0ARR1enRvRDHJ8c0Ifp1yVAM-/view
+
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=iqbalhossainshuvo&style=flat-square&color=1F6FEB" />
 
-<p style="color:#6E7681;">
-Dark-blue system inspired • Designed for clarity • Built with purpose
+<p style="color:#6E7681;font-size:13px;">
+Professional profile • Dark blue system • Recruiter-focused
 </p>
 
-</div>
-```
-  <img src="https://komarev.com/ghpvc/?username=iqbalhossainshuvo&style=flat-square&color=00ff99" />
 </div>
