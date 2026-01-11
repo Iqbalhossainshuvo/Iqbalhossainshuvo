@@ -126,9 +126,4 @@ Strong interest in **FinTech, SaaS platforms, and production-grade systems**.
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=iqbalhossainshuvo&style=flat-square&color=1F6FEB" />
-
-<p style="color:#6E7681;font-size:13px;">
-Professional profile • Dark blue system • Recruiter-focused
-</p>
-
 </div>
