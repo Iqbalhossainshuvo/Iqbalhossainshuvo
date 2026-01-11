@@ -33,6 +33,15 @@ I build scalable web applications, design seamless user experiences, and craft g
 
 ## 📈 GitHub Performance
 
+## 📈 GitHub Performance
+
+[![GitHub followers](https://img.shields.io/github/followers/iqbalhossainshuvo?style=social)](https://github.com/iqbalhossainshuvo)
+[![GitHub repos](https://img.shields.io/github/repos/iqbalhossainshuvo?style=flat-square&color=1F6FEB)](https://github.com/iqbalhossainshuvo?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/iqbalhossainshuvo?style=flat-square&color=0A66C2)](https://github.com/iqbalhossainshuvo?tab=stars)
+[![GitHub forks](https://img.shields.io/github/forks/iqbalhossainshuvo?style=flat-square&color=FF6B6B)](https://github.com/iqbalhossainshuvo?tab=forks)
+[![GitHub issues](https://img.shields.io/github/issues/iqbalhossainshuvo?style=flat-square&color=F7DF1E)](https://github.com/iqbalhossainshuvo/issues)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalhossainshuvo&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqbalhossainshuvo&theme=github-dark-blue&hide_border=true)
